@@ -8,3 +8,6 @@ papers, code, notes on sequencing, SVs, databases, pipelines
 # Papers
 tags: `#immunesignatures` `#rnaseq`
 - [ ] [2020 - RNA Immune Signatures from Pan-Cancer Analysis Are Prognostic for High-Grade Serous Ovarian Cancer and Other Female Cancers](https://www.mdpi.com/2072-6694/12/3/620) `#immunesignatures` `#rnaseq`
+
+# Etc
+* [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
