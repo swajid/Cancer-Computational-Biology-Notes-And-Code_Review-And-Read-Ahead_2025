@@ -4,6 +4,7 @@ weekend/extra reviewing/studying
 papers, code, notes on sequencing, SVs, databases, pipelines
 
 # Solid tumors
+<< a table of some sorts here >>
 
 # Papers
 tags: `#immunesignatures` `#rnaseq`
@@ -14,3 +15,8 @@ tags: `#immunesignatures` `#rnaseq`
 
 # Etc
 * [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
+
+# Books (I'm Reading)
+* `#BOC` - [The Biology of Cancer](https://wwnorton.com/books/9780393887655)
+* `#GITC` - [Genomics in the Cloud](https://www.oreilly.com/library/view/genomics-in-the/9781491975183/)
+* `#SEAG` - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
