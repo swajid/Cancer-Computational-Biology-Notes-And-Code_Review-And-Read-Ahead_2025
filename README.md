@@ -13,6 +13,8 @@ tags: `#immunesignatures` `#rnaseq`
 # Definitions
 * __Subclonal__ "In cancer, subclones are __distinct subpopulations of cells within a tumor__ that have different genetic and/or epigenetic characteristics, originating from a common ancestral cell. These subclones can develop through the accumulation of mutations and other changes as cancer cells evolve and adapt to their environment. Understanding subclones is crucial because they can influence tumor behavior, treatment response, and resistance."
 
+* __Clonal Hematopoiesis (CH)__ "Clonal hematopoiesis (CH) happens when a cell called a hematopoietic stem cell, which can develop into different types of blood cells, starts making cells with the same genetic mutation. These blood cells have a different genetic pattern than the rest of your blood cells." [source](https://www.mskcc.org/cancer-care/types/leukemias/risk-factors/clonal-hematopoiesis-ch)
+
 # Etc
 * [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
 
