@@ -15,6 +15,52 @@ tags: `#immunesignatures` `#rnaseq`
 
 * __Clonal Hematopoiesis (CH)__ "Clonal hematopoiesis (CH) happens when a cell called a hematopoietic stem cell, which can develop into different types of blood cells, starts making cells with the same genetic mutation. These blood cells have a different genetic pattern than the rest of your blood cells." [source](https://www.mskcc.org/cancer-care/types/leukemias/risk-factors/clonal-hematopoiesis-ch)
 
+<!-- words that come up that i mostly know to define/look into **soon** like over the weekends?? making a dictionary for myself for the future -->
+
+* Canonical pathway
+* Chipseq for validation when RNA-seq doesn’t give enough information
+* Model system in a cell line — overexposes the function and mutant and see how it effects the growth
+* Immune deconvolution
+* Allelic expression — what is the other allele doing
+* Tumor suppressor
+* Gain of function
+* LOH
+* Truncating mutation
+* Frameshift mutations
+* Locus
+* Functional effect, e.g. mutation does or does not have a functional effect
+* MSI
+* N-terminal path
+* TMB - tumor mutational burden
+* Knockout gene
+* Wild type allele
+* Clonal vs subclonal
+* TCGA — associate with phenotype, additional cohorts
+* Phenotypic difference
+* Clinical phenotype
+* Survival curve/survival analysis
+* Oncogene vs. context dependent tumor suppressor activity
+* How to interpret the data: mutually exclusive vs co-occuring patterns
+* Validating expression
+* Does the gene tolerate loss of function mutation
+* Splice mutations/alteration
+* Protein stabilization
+* Misregulation
+* Deleterious
+* Gain of function
+* Known databases - COMIC and oncoKB
+* RNA-seq to see if alteration was expressed, possible to see no expression but still have an effect
+* Ubiquinated
+* In-frame-deletion
+* misannotated mutation
+* Exon skipping
+* homdels
+* Candidate testing
+* Recurrent alteration
+* For splice site mutations at MSKCC, the p.X_splice format follows this pattern: Format: p.[AminoAcid][Position]_splice
+* Histology
+* biallelic
+
 # Etc
 * [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
 
