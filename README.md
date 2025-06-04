@@ -68,3 +68,7 @@ tags: `#immunesignatures` `#rnaseq`
 * `#BOC` - [The Biology of Cancer](https://wwnorton.com/books/9780393887655)
 * `#GITC` - [Genomics in the Cloud](https://www.oreilly.com/library/view/genomics-in-the/9781491975183/)
 * `#SEAG` - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
+
+# Things I've learned so far
+* There's probably no such thing as a "dumb" or "simple" question in cancer, because cancer is so complicated, it turns out the answer is complicated anyway
+* Cursing over bad data is completely okay 😂
