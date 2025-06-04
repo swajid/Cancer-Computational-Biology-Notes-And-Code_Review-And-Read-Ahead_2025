@@ -60,6 +60,11 @@ tags: `#immunesignatures` `#rnaseq`
 * For splice site mutations at MSKCC, the p.X_splice format follows this pattern: Format: p.[AminoAcid][Position]_splice
 * Histology
 * biallelic
+* dbSNP
+* gnomAD
+* HETLOSS
+* CNLOH
+
 
 # Etc
 * [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
@@ -72,3 +77,9 @@ tags: `#immunesignatures` `#rnaseq`
 # Things I've learned so far
 * There's probably no such thing as a "dumb" or "simple" question in cancer, because cancer is so complicated, it turns out the answer is complicated anyway
 * Cursing over bad data is completely okay 😂
+* If IGV is being super slow during screen-sharing on Zoom, turning your camera off makes IGV run fast again
+
+# Remote work hacks
+* Literally taking a shower before work or during lunch is the best thing ever ... just makes everything better the whole day
+* Nose canceling headphones because someone is always getting their lawn mowed in the morning/afternoon etc. every day
+* BenQ ScreenBar Halo is the best table lamp ever
