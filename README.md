@@ -65,6 +65,36 @@ tags: `#immunesignatures` `#rnaseq`
 * HETLOSS
 * CNLOH
 * actionable targets/actionable mutations
+* Isoform e.g. CDKN2Ap14ARF CDKN2Ap16INK4A
+* Basic scientist vs. clinician
+* Sarcoma
+* Colorectal cancer (CRC)
+* TP53
+* Copy number driven genes
+* Genomic alterations
+* Missense
+* Truncating
+* Inframe indel
+* Splice
+* Amplification
+* Rearrangement
+* Deep deletion
+* MYC
+* Primary site
+* Fusion
+* Oncoprotein
+* Driver Alteration
+* Tumor microenvironment
+* Cellular plasticity
+* How does long read sequencing validate fusions
+* Canonical marker genes of tumors
+* Tumor heterogeneity
+* “It was a clonal event”
+* Resistance to apoptosis
+* Oncogenes
+* Tumor suppressor genes
+* Immune evasion
+
 
 # Etc
 * [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
@@ -74,6 +104,7 @@ tags: `#immunesignatures` `#rnaseq`
 * `#GITC` - [Genomics in the Cloud](https://www.oreilly.com/library/view/genomics-in-the/9781491975183/)
 * `#SEAG` - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 
+<!--
 # Things I've learned so far
 * There's probably no such thing as a "dumb" or "simple" question in cancer, because cancer is so complicated, it turns out the answer is complicated anyway
 * Cursing over bad data is completely okay 😂
@@ -83,3 +114,4 @@ tags: `#immunesignatures` `#rnaseq`
 * Literally taking a shower before work or during lunch is the best thing ever ... just makes everything better the whole day
 * Nose canceling headphones because someone is always getting their lawn mowed in the morning/afternoon etc. every day
 * BenQ ScreenBar Halo is the best table lamp ever
+-->
