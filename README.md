@@ -94,7 +94,11 @@ tags: `#immunesignatures` `#rnaseq`
 * Oncogenes
 * Tumor suppressor genes
 * Immune evasion
-
+* Novel (splicing) event
+* Cryptic (splicing) event
+* Tandem duplication
+* Overexpression positivity
+* Lowly expressed genes are super variable
 
 # Etc
 * [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
