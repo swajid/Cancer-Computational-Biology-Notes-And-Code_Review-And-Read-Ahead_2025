@@ -17,88 +17,108 @@ tags: `#immunesignatures` `#rnaseq`
 
 <!-- words that come up that i mostly know to define/look into **soon** like over the weekends?? making a dictionary for myself for the future -->
 
-* Canonical pathway
-* Chipseq for validation when RNA-seq doesn’t give enough information
-* Model system in a cell line — overexposes the function and mutant and see how it effects the growth
-* Immune deconvolution
-* Allelic expression — what is the other allele doing
-* Tumor suppressor
-* Gain of function
-* LOH
+# 1. Mutation Types and Genomic Alterations
+
 * Truncating mutation
 * Frameshift mutations
-* Locus
-* Functional effect, e.g. mutation does or does not have a functional effect
-* MSI
-* N-terminal path
-* TMB - tumor mutational burden
-* Knockout gene
-* Wild type allele
-* Clonal vs subclonal
-* TCGA — associate with phenotype, additional cohorts
-* Phenotypic difference
-* Clinical phenotype
-* Survival curve/survival analysis
-* Oncogene vs. context dependent tumor suppressor activity
-* How to interpret the data: mutually exclusive vs co-occuring patterns
-* Validating expression
-* Does the gene tolerate loss of function mutation
-* Splice mutations/alteration
-* Protein stabilization
-* Misregulation
-* Deleterious
-* Gain of function
-* Known databases - COMIC and oncoKB
-* RNA-seq to see if alteration was expressed, possible to see no expression but still have an effect
-* Ubiquinated
-* In-frame-deletion
-* misannotated mutation
-* Exon skipping
-* homdels
-* Candidate testing
-* Recurrent alteration
-* For splice site mutations at MSKCC, the p.X_splice format follows this pattern: Format: p.[AminoAcid][Position]_splice
-* Histology
-* biallelic
-* dbSNP
-* gnomAD
-* HETLOSS
-* CNLOH
-* actionable targets/actionable mutations
-* Isoform e.g. CDKN2Ap14ARF CDKN2Ap16INK4A
-* Basic scientist vs. clinician
-* Sarcoma
-* Colorectal cancer (CRC)
-* TP53
-* Copy number driven genes
-* Genomic alterations
 * Missense
-* Truncating
+* Splice mutations/alteration
+* In-frame deletion
 * Inframe indel
-* Splice
 * Amplification
-* Rearrangement
 * Deep deletion
-* MYC
-* Primary site
+* Rearrangement
 * Fusion
-* Oncoprotein
-* Driver Alteration
-* Tumor microenvironment
-* Cellular plasticity
-* How does long read sequencing validate fusions
-* Canonical marker genes of tumors
-* Tumor heterogeneity
-* “It was a clonal event”
-* Resistance to apoptosis
-* Oncogenes
-* Tumor suppressor genes
-* Immune evasion
+* Tandem duplication
 * Novel (splicing) event
 * Cryptic (splicing) event
-* Tandem duplication
+* Homdels
+
+# 2. Functional Impact Assessment
+
+* Functional effect (mutation does or does not have functional effect)
+* Gain of function
+* Loss of function (Does the gene tolerate loss of function mutation)
+* Deleterious
+* Protein stabilization
+* Misregulation
+* Ubiquitinated
+* Driver alteration
+* Exon skipping
+
+# 3. Gene and Protein Classification
+
+* Tumor suppressor
+* Oncogene
+* Oncoprotein
+* Context dependent tumor suppressor activity
+* Copy number driven genes
+* Wild type allele
+* Canonical marker genes of tumors
+* Specific examples: TP53, MYC, CDKN2Ap14ARF, CDKN2Ap16INK4A
+
+# 4. Experimental Methods and (Clinical) Validation
+
+* ChIP-seq for validation when RNA-seq doesn't give enough information
+* RNA-seq to see if alteration was expressed
+* Model system in cell line (overexpress the function and mutant)
+* Validating expression
+* Knockout gene
+* Candidate testing
+* Long read sequencing (to validate fusions)
+
+# 5. Clinical and Phenotypic Analysis
+
+* Clinical phenotype
+* Phenotypic difference
+* Survival curve/survival analysis
+* Histology
+* Primary site
+* Actionable targets/actionable mutations
+* Cancer types: Sarcoma, Colorectal cancer (CRC)
+
+# 6. Genomic Analysis Concepts
+
+* Allelic expression (what is the other allele doing)
+* LOH (Loss of Heterozygosity)
+* HETLOSS
+* CNLOH
+* Clonal vs subclonal
+* Biallelic
+* MSI (Microsatellite Instability)
+* TMB (Tumor Mutational Burden)
+* Immune deconvolution
+* Recurrent alteration
+* Isoform
 * Overexpression positivity
+
+# 7. Cancer-centric Databases and Resources
+
+* COSMIC
+* OncoKB
+* TCGA (associate with phenotype, additional cohorts)
+* dbSNP
+* gnomAD
+
+# 8. Cancer Biology and Tumor Properties
+
+* Canonical pathway
+* Tumor microenvironment
+* Cellular plasticity
+* Tumor heterogeneity
+* Resistance to apoptosis
+* Immune evasion
+* "It was a clonal event"
+
+# 9. Data Interpretation and Analysis Patterns
+
+* Mutually exclusive vs co-occurring patterns
+* Misannotated mutation
 * Lowly expressed genes are super variable
+* N-terminal path
+* Locus
+* Basic scientist vs. clinician (perspectives)
+* p.X_splice format at MSKCC
 
 # Etc
 * [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
