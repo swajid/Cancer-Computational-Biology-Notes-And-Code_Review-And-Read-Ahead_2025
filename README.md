@@ -212,6 +212,8 @@ What determines whether a potential splice site remains cryptic? Several factors
 * Allogenic
 * hg38 vs 37 -- deep comparison including mentioning lack of diversity as a reference
 * Cell Types (cancer centric)
+* B cell
+* T cell
 
 # Etc
 * [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
