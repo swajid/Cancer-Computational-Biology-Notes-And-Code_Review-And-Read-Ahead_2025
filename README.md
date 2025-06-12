@@ -224,7 +224,7 @@ What determines whether a potential splice site remains cryptic? Several factors
 * `#SEAG` - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 
 # Misc
-* [Ideas for nextflow pipeline names](https://en.wikipedia.org/wiki/List_of_proper_names_of_stars)
+* [Ideas for nextflow pipeline names](https://en.wikipedia.org/wiki/List_of_proper_names_of_stars) & [this](https://en.wikipedia.org/wiki/List_of_Arabic_star_names) <!-- the foot of the giant!!??? ummm that sounds amazing and totally epic ... which means it going to work 100% of the time 😂 -->
 
 <!--
 # Things I've learned so far
