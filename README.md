@@ -220,6 +220,7 @@ What determines whether a potential splice site remains cryptic? Several factors
 * supporting reads
 * oversequenced samples in terms of PCA
 * isochromosome - https://en.wikipedia.org/wiki/Isochromosome
+* RB1
 
 # Etc
 * [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
