@@ -2,6 +2,7 @@
 
 weekend/extra reviewing/studying
 papers, code, notes on sequencing, SVs, databases, pipelines
+self note: prolly should just write the definition the day of, but weekends are also ok i guess
 
 # Solid tumors
 << a table of some sorts here >>
@@ -226,6 +227,9 @@ What determines whether a potential splice site remains cryptic? Several factors
 * snapshot
 * bot user
 * cold vs. warm storage
+* haplotype phasing - LRS
+* promiscuous mapping
+* mmr proteins -> ins/del in homopolymer regions
 
 # Etc
 * [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
