@@ -230,6 +230,7 @@ What determines whether a potential splice site remains cryptic? Several factors
 * haplotype phasing - LRS
 * promiscuous mapping
 * mmr proteins -> ins/del in homopolymer regions
+* "mutationome"
 
 # Etc
 * [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
