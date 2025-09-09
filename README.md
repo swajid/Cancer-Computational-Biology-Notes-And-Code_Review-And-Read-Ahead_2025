@@ -236,6 +236,8 @@ What determines whether a potential splice site remains cryptic? Several factors
 
 # Etc
 * [2008 - On the Process of Becoming a Great Scientist](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040033)
+* https://www.nature.com/articles/s41598-025-08986-0
+
 
 # Books (I'm Reading)
 * `#BOC` - [The Biology of Cancer](https://wwnorton.com/books/9780393887655)
