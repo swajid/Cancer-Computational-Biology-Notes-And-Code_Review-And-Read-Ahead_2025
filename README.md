@@ -1,8 +1,16 @@
-# Cancer-Computational-Biology-Notes-And-Code_Review-And-Read-Ahead_2025
+# Cancer-Computational-Biology-Notes-And-Code_Review-And-Read-Ahead_2025-2026
 
 weekend/extra reviewing/studying
 papers, code, notes on sequencing, SVs, databases, pipelines
 self note: prolly should just write the definition the day of, but weekends are also ok i guess
+
+# Goals
+## Nov-Dec 2025
+* make a study calendar, review everything that i think i need to review that i wrote/writing about
+* 1st week Dec - memorize the 20 amino acids (just get it out of the way), use to know them, need to just memorize them now (anki)
+* put the youtube videos/seminars/lectures in their named playlist (e.g. "orgo" or "rust" or "python" or "AI" or "cancer") so the recommendations keep recommending the good stuff (i think that helps)
+* etc etc will think of more things to keep myself busy
+* i could probably find a biochemistry undergrad class on youtube and watch the lectures at 2x or 3x the speed to review things
 
 # Solid tumors
 << a table of some sorts here >>
